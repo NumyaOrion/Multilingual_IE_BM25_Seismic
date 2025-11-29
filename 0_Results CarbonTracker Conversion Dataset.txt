@@ -1,0 +1,266 @@
+Results Conversion Dataset
+
+--------------------------------------------------------------------
+ENGLISH ------------------------------------------------------------
+--------------------------------------------------------------------
+
+Jsonl file: 3,06 GB (3 291 501 173 Bytes)
+TSV file: 2,85 GB (3 061 567 852 Bytes)
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished english
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:00:57
+        Energy: 0.00162759 kWh
+        CO2eq:  0.16702837 g
+        This is equivalent to:
+        0.00156394 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:00:57
+        Energy: 0.00162759 kWh
+        CO2eq:  0.16702837 g
+        This is equivalent to:
+        0.00156394 km travelled by car
+CarbonTracker: Finished monitoring.
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished english
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:00:58
+        Energy: 0.00150130 kWh
+        CO2eq:  0.15406780 g
+        This is equivalent to:
+        0.00144258 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:00:58
+        Energy: 0.00150130 kWh
+        CO2eq:  0.15406780 g
+        This is equivalent to:
+        0.00144258 km travelled by car
+CarbonTracker: Finished monitoring.
+
+--------------------------------------------------------------------
+German ------------------------------------------------------------
+--------------------------------------------------------------------
+
+Jsonl file: 3,46 GB (3 718 324 478 Bytes)
+TSV file: 3,24 GB (3 488 187 566 Bytes)
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished german
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00198510 kWh
+        CO2eq:  0.20371693 g
+        This is equivalent to:
+        0.00190746 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00198510 kWh
+        CO2eq:  0.20371693 g
+        This is equivalent to:
+        0.00190746 km travelled by car
+CarbonTracker: Finished monitoring.
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished german
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00153115 kWh
+        CO2eq:  0.15713106 g
+        This is equivalent to:
+        0.00147126 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00153115 kWh
+        CO2eq:  0.15713106 g
+        This is equivalent to:
+        0.00147126 km travelled by car
+CarbonTracker: Finished monitoring.
+
+--------------------------------------------------------------------
+Italian ------------------------------------------------------------
+--------------------------------------------------------------------
+
+Jsonl file: 3,42 GB (3 674 583 213 Bytes)
+TSV file: 3,20 GB (3 444 092 853 Bytes)
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished italian
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00153531 kWh
+        CO2eq:  0.15755835 g
+        This is equivalent to:
+        0.00147527 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:09
+        Energy: 0.00153531 kWh
+        CO2eq:  0.15755835 g
+        This is equivalent to:
+        0.00147527 km travelled by car
+CarbonTracker: Finished monitoring.
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished italian
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:08
+        Energy: 0.00168551 kWh
+        CO2eq:  0.17297230 g
+        This is equivalent to:
+        0.00161959 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:08
+        Energy: 0.00168551 kWh
+        CO2eq:  0.17297230 g
+        This is equivalent to:
+        0.00161959 km travelled by car
+CarbonTracker: Finished monitoring.
+
+--------------------------------------------------------------------
+Japanese ------------------------------------------------------------
+--------------------------------------------------------------------
+
+Jsonl file: 3,86 GB (4 154 918 075 Bytes)
+TSV file: 3,65 GB (3 924 982 422 Bytes)
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished japanese
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:07
+        Energy: 0.00157891 kWh
+        CO2eq:  0.16203212 g
+        This is equivalent to:
+        0.00151715 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:07
+        Energy: 0.00157891 kWh
+        CO2eq:  0.16203212 g
+        This is equivalent to:
+        0.00151715 km travelled by car
+CarbonTracker: Finished monitoring.
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished japanese
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:06
+        Energy: 0.00165404 kWh
+        CO2eq:  0.16974250 g
+        This is equivalent to:
+        0.00158935 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:06
+        Energy: 0.00165404 kWh
+        CO2eq:  0.16974250 g
+        This is equivalent to:
+        0.00158935 km travelled by car
+CarbonTracker: Finished monitoring.
+
+--------------------------------------------------------------------
+Russian ------------------------------------------------------------
+--------------------------------------------------------------------
+
+Jsonl file: 5,58 GB (5 999 567 361 Bytes)
+TSV file: 5,37 GB (5 769 514 997 Bytes)
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished russian
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:34
+        Energy: 0.00246761 kWh
+        CO2eq:  0.25323292 g
+        This is equivalent to:
+        0.00237109 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:34
+        Energy: 0.00246761 kWh
+        CO2eq:  0.25323292 g
+        This is equivalent to:
+        0.00237109 km travelled by car
+CarbonTracker: Finished monitoring.
+
+CarbonTracker: INFO - Detected CPU: AMD Ryzen 9 5900X 12-Core Processor
+CarbonTracker: WARNING - No API keys provided. Skipping intensity provider initialization.
+CarbonTracker: WARNING - No matching TDP found for CPU: AMD Ryzen 9 5900X 12-Core Processor. Using average TDP of 35.61W at 50% utilization as fallback.
+CarbonTracker: The following components were found: GPU with device(s) NVIDIA GeForce RTX 2060. CPU with device(s) AMD Ryzen 9 5900X 12-Core Processor.
+CarbonTracker: WARNING - No carbon intensity provider specified. Using average carbon intensity for AT: 102.62 gCO2eq/kWh.
+Finished russian
+CarbonTracker: 
+Predicted consumption for 1 epoch(s):
+        Time:   0:01:33
+        Energy: 0.00212002 kWh
+        CO2eq:  0.21756236 g
+        This is equivalent to:
+        0.00203710 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:01:33
+        Energy: 0.00212002 kWh
+        CO2eq:  0.21756236 g
+        This is equivalent to:
+        0.00203710 km travelled by car
+CarbonTracker: Finished monitoring.

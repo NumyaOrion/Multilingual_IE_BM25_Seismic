@@ -1,0 +1,139 @@
+Results Conversion Dataset - Standardized Analyzer
+
+--------------------------------------------------------------------
+X ENGLISH ------------------------------------------------------------
+--------------------------------------------------------------------
+FOLDER SIZE: 4,01 GB (4 316 987 015 Bytes)
+
+CarbonTracker:
+        Time:   0:05:15
+        Energy: 0.00686969 kWh
+        CO2eq:  0.70498683 g
+        This is equivalent to:
+        0.00660100 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:05:15
+        Energy: 0.00686969 kWh
+        CO2eq:  0.70498683 g
+        This is equivalent to:
+        0.00660100 km travelled by car
+CarbonTracker: Finished monitoring.
+
+[codecarbon INFO @ 15:17:26] Energy consumed for RAM : 0.001689 kWh. RAM Power : 20.0 W
+[codecarbon INFO @ 15:17:26] Delta energy consumed for CPU with constant : 0.001403 kWh, power : 1260.0 W
+[codecarbon INFO @ 15:17:26] Energy consumed for All CPU : 0.106459 kWh
+[codecarbon INFO @ 15:17:26] Energy consumed for all GPUs : 0.001187 kWh. Total GPU Power : 13.533398831216237 W
+[codecarbon INFO @ 15:17:26] 0.109335 kWh of electricity and 0.000000 L of water were used since the beginning.
+--------------------------------------------------------------------
+X German ------------------------------------------------------------
+--------------------------------------------------------------------
+FOLDER SIZE: 4,22 GB (4 535 934 470 Bytes)
+
+CarbonTracker:
+Predicted consumption for 1 epoch(s):
+        Time:   0:05:07
+        Energy: 0.00668883 kWh
+        CO2eq:  0.68642677 g
+        This is equivalent to:
+        0.00642722 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:05:07
+        Energy: 0.00668883 kWh
+        CO2eq:  0.68642677 g
+        This is equivalent to:
+        0.00642722 km travelled by car
+CarbonTracker: Finished monitoring.
+
+[codecarbon INFO @ 22:37:16] Energy consumed for RAM : 0.001740 kWh. RAM Power : 20.0 W
+[codecarbon INFO @ 22:37:16] Delta energy consumed for CPU with constant : 0.004628 kWh, power : 1260.0 W
+[codecarbon INFO @ 22:37:16] Energy consumed for All CPU : 0.109676 kWh
+[codecarbon INFO @ 22:37:16] Energy consumed for all GPUs : 0.001288 kWh. Total GPU Power : 24.538632580967082 W        
+[codecarbon INFO @ 22:37:16] 0.112704 kWh of electricity and 0.000000 L of water were used since the beginning.
+
+--------------------------------------------------------------------
+X Italian ------------------------------------------------------------
+--------------------------------------------------------------------
+FOLDER SIZE: 4,28 GB (4 598 139 286 Bytes)
+
+CarbonTracker:
+Predicted consumption for 1 epoch(s):
+        Time:   0:05:11
+        Energy: 0.00678831 kWh
+        CO2eq:  0.69663600 g
+        This is equivalent to:
+        0.00652281 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:05:11
+        Energy: 0.00678831 kWh
+        CO2eq:  0.69663600 g
+        This is equivalent to:
+        0.00652281 km travelled by car
+CarbonTracker: Finished monitoring.
+
+[codecarbon INFO @ 06:11:17] Energy consumed for RAM : 0.001701 kWh. RAM Power : 20.0 W
+[codecarbon INFO @ 06:11:17] Delta energy consumed for CPU with constant : 0.002131 kWh, power : 1260.0 W
+[codecarbon INFO @ 06:11:17] Energy consumed for All CPU : 0.107179 kWh
+[codecarbon INFO @ 06:11:17] Energy consumed for all GPUs : 0.001252 kWh. Total GPU Power : 13.872940289004312 W        
+[codecarbon INFO @ 06:11:17] 0.110132 kWh of electricity and 0.000000 L of water were used since the beginning.
+
+--------------------------------------------------------------------
+X Japanese ------------------------------------------------------------
+--------------------------------------------------------------------
+FOLDER SIZE:  4,53 GB (4 870 242 840 Bytes)
+
+CarbonTracker:
+Predicted consumption for 1 epoch(s):
+        Time:   0:12:33
+        Energy: 0.01661582 kWh
+        CO2eq:  1.70516346 g
+        This is equivalent to:
+        0.01596595 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:12:33
+        Energy: 0.01661582 kWh
+        CO2eq:  1.70516346 g
+        This is equivalent to:
+        0.01596595 km travelled by car
+CarbonTracker: Finished monitoring.
+
+[codecarbon INFO @ 13:14:36] Energy consumed for RAM : 0.004229 kWh. RAM Power : 20.0 W
+[codecarbon INFO @ 13:14:36] Delta energy consumed for CPU with constant : 0.003857 kWh, power : 1260.0 W
+[codecarbon INFO @ 13:14:36] Energy consumed for All CPU : 0.266469 kWh
+[codecarbon INFO @ 13:14:36] Energy consumed for all GPUs : 0.002998 kWh. Total GPU Power : 13.838656491974065 W
+[codecarbon INFO @ 13:14:36] 0.273696 kWh of electricity and 0.000000 L of water were used since the beginning.
+
+--------------------------------------------------------------------
+X Russian ------------------------------------------------------------
+--------------------------------------------------------------------
+FOLDER SIZE: 5,69 GB (6 118 789 087 Bytes)
+
+CarbonTracker:
+Predicted consumption for 1 epoch(s):
+        Time:   0:06:43
+        Energy: 0.00885042 kWh
+        CO2eq:  0.90825562 g
+        This is equivalent to:
+        0.00850427 km travelled by car
+CarbonTracker: Average carbon intensity during training was 102.62 gCO2eq/kWh.
+CarbonTracker:
+Actual consumption for 1 epoch(s):
+        Time:   0:06:43
+        Energy: 0.00885042 kWh
+        CO2eq:  0.90825562 g
+        This is equivalent to:
+        0.00850427 km travelled by car
+CarbonTracker: Finished monitoring.
+
+[codecarbon INFO @ 21:40:39] Energy consumed for RAM : 0.002201 kWh. RAM Power : 20.0 W
+[codecarbon INFO @ 21:40:39] Delta energy consumed for CPU with constant : 0.002128 kWh, power : 1260.0 W
+[codecarbon INFO @ 21:40:39] Energy consumed for All CPU : 0.138682 kWh
+[codecarbon INFO @ 21:40:39] Energy consumed for all GPUs : 0.001576 kWh. Total GPU Power : 14.048530995826944 W        
+[codecarbon INFO @ 21:40:39] 0.142458 kWh of electricity and 0.000000 L of water were used since the beginning.
